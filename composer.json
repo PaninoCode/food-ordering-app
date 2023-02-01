@@ -1,0 +1,7 @@
+{
+    "name": "foodapi/foodapi",
+    "description": "Food API",
+    "require": {
+        "phpmailer/phpmailer": "^6.7.1"
+    }
+}
